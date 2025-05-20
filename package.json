@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "echo \"build\""
+  },
   "dependencies": {
     "express": "^5.1.0",
     "serverless-http": "^3.2.0"
